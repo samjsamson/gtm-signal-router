@@ -1,0 +1,3 @@
+id,account_name,company_website,employee_count,industry,full_name,job_title,city
+crm-001,Northstar Analytics,https://example.com,420,Analytics,Jordan Example,Director of Revenue Operations,San Francisco CA
+crm-002,Juniper Cloud,https://example.org,85,Cloud Software,Avery Example,Customer Success Manager,Seattle WA
